@@ -311,8 +311,8 @@ body {
  }
  
  .single-card{
-   width: "320"px;
-   height: "420"px;
+   width: 320px;
+   height: 420px;
    display: block;
    margin-bottom: 40px;
    text-align: left;
@@ -326,13 +326,13 @@ body {
  }
  
  .card-img{
-   height: "50"%;
+   height: 50%;
    overflow: hidden;  
  }
  
  .card-img_src{
-   width: "100"%;
-   height: "100"%;
+   width: 100%;
+   height: 100%;
    border-radius: 5px 5px 0 0; 
  
    transition: all 1s ease;
@@ -351,16 +351,16 @@ body {
  }
  
  .card-info{
-   padding: "15"px;
-   width: "100"%;
-   height: "50"%;
+   padding: 15px;
+   width: 100%;
+   height: 50%;
  }
  
  .card-info > p{
-   font-size: "14"px;
-   font-weight: "300";
+   font-size: 14px;
+   font-weight: 300;
    line-height: normal;
-   height: "70"%;
+   height: 70%;
    overflow-y: hidden;
    position: relative;
  }
@@ -371,7 +371,7 @@ body {
  }
  
  .blue-divider{
-   width: "100"%;
+   width: 100%;
    height: 6px;
    background-color: #337ab7;
  }
